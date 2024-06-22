@@ -4,7 +4,7 @@
 #include <iterator>
 #include <limits>
 #include <type_traits>
-#include <cilantro/config.hpp>
+// #include <cilantro/config.hpp>
 #include <cilantro/core/data_containers.hpp>
 #include <cilantro/core/nearest_neighbors.hpp>
 #include <cilantro/core/random.hpp>
